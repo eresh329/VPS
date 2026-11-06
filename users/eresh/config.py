@@ -1,0 +1,8 @@
+# Telegram Bot Token
+BOT_TOKEN = "9094142101:AAHghQSzmebMI0eKJxX8PecCwUdY41c_nG4"
+
+# Cloudinary Details
+CLOUD_NAME = "deexn7hx2"
+API_KEY = "864259747595885"
+API_SECRET = "fIJYYXuV3EAuBjUyLvxEm2QHzsc"
+ADMIN_IDS = [8312303580]
